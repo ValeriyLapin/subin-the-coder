@@ -24,8 +24,6 @@ import com.googlecode.charts4j.Plots;
 /**
  * http://code.google.com/p/charts4j/source/browse/tags/v1.2/example/
  * 
- * @author Subin
- * 
  */
 public class ChartDataProvider
 {
